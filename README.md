@@ -1,2 +1,3 @@
 # vialidad
-GUI application to manage word documets
+GUI application to manage word documents
+ 
